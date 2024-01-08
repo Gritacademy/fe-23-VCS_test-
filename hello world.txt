@@ -1,3 +1,8 @@
 ALrik was here
 Elvira
+<<<<<<< HEAD
 Tobbe
+=======
+Johanna
+Ton
+>>>>>>> 44c76eb04a43fa83c5fa87cb3bcc29ada82be7f2
