@@ -1,7 +1,11 @@
 ALrik was here
 Elvira
 Tobbe
+<<<<<<< HEAD
+Johanna was never here (really?) (Yes, really)
+=======
 Johanna
+>>>>>>> c12eeb16b143350ba167cdebe1dc87a7eafbe91a
 Ton
 Petra
 Erika
@@ -12,3 +16,8 @@ Filip
 Maria, you are finally awake
 Luna
 Thien
+Rojvan
+Anne-lie
+Andréa
+andré
+Kristoffer
