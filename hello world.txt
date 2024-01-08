@@ -6,8 +6,6 @@ Petra
 Erika
 sofia
 Andréa
-<<<<<<< HEAD
 Yasir
-=======
 Melinda
->>>>>>> 9419c090fdf8a68f70a1807ab3dce77fa104b08c
+Filip
