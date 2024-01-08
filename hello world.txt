@@ -1,4 +1,5 @@
 ALrik was here
+Amanda
 Elvira
 Tobbe
 Johanna was never here
@@ -10,8 +11,5 @@ Yasir
 Melinda
 Filip
 Maria, you are finally awake
-<<<<<<< Updated upstream
 Luna
 Thien
-=======
-
