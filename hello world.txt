@@ -6,4 +6,9 @@ Elvira
 Johanna
 Ton
 Petra
+<<<<<<< HEAD
 >>>>>>> e93509f0267edcb0a4f73b6e6e2c267ae00a2293
+=======
+Erika
+sofia
+>>>>>>> 5193df4920a6ead8a2734e8ee92e3a4d7b227612
