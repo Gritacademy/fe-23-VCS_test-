@@ -8,6 +8,7 @@ Petra
 Kristoffer
 Erika
 sofia
+<<<<<<< Updated upstream
 Yasir
 Melinda
 Maria, you are finally awake
@@ -15,3 +16,6 @@ Luna
 Thien
 anne-lie
 Andréa
+=======
+andré
+>>>>>>> Stashed changes
