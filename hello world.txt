@@ -1,2 +1,9 @@
 ALrik was here
+<<<<<<< HEAD
 Amanda
+=======
+Elvira
+Johanna
+Ton
+Petra
+>>>>>>> e93509f0267edcb0a4f73b6e6e2c267ae00a2293
