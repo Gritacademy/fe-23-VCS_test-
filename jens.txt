@@ -1,0 +1,7 @@
+Contributing with a new files.
+
+VS Shortcodes for mac
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+VS Version control
+https://code.visualstudio.com/docs/introvideos/versioncontrol
