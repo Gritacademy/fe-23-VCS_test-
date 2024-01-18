@@ -2,5 +2,9 @@
     "data":{
         "name":"Alrik",
         "age":31
+    },
+    "data2":{
+        "name":"Alrik",
+        "age":31
     }
 }
