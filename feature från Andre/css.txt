@@ -1,0 +1,6 @@
+/*css for Mr Spy*/
+.spyImage {
+  position: absolute;
+  opacity: 0;
+  transition: opacity 3s ease;
+}
